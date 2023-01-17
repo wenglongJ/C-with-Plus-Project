@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (3.3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  CSortArray.cpp
+  CReArray.cpp
+  CNewArray.cpp
+  CMyArray.cpp
+  CAverArray.cpp
+  3.3.cpp
+  Generating Code...
+  3.3.vcxproj -> D:\C++练习\ParseKeyValue\Debug\Arrray.exe
+  3.3.vcxproj -> D:\C++练习\ParseKeyValue\Debug\Arrray.pdb (Full PDB)
