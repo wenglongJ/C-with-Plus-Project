@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  MainFrm.cpp
+  Parent.cpp
+  ParentDoc.cpp
+  ParentView.cpp
+  Generating code
+  All 245 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Parent.vcxproj -> D:\C++练习\Win32Project1\实验\Release\Parent.exe
+  Parent.vcxproj -> D:\C++练习\Win32Project1\实验\Release\Parent.pdb (Full PDB)
