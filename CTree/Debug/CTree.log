@@ -1,0 +1,8 @@
+﻿  CTree.cpp
+CTree.obj : error LNK2019: unresolved external symbol "public: class CTreeItem * __thiscall CTreeItem::GetChildItem(void)" (?GetChildItem@CTreeItem@@QAEPAV1@XZ) referenced in function "protected: void __thiscall CTree::SetReserveState(class CTreeItem &)" (?SetReserveState@CTree@@IAEXAAVCTreeItem@@@Z)
+CTree.obj : error LNK2019: unresolved external symbol "public: class CTreeItem * __thiscall CTreeItem::GetNextItem(void)" (?GetNextItem@CTreeItem@@QAEPAV1@XZ) referenced in function "protected: void __thiscall CTree::SetReserveState(class CTreeItem &)" (?SetReserveState@CTree@@IAEXAAVCTreeItem@@@Z)
+CTree.obj : error LNK2019: unresolved external symbol "public: void __thiscall CTreeItem::SetItemState(int)" (?SetItemState@CTreeItem@@QAEXH@Z) referenced in function "public: void __thiscall CTree::DeselectAll(void)" (?DeselectAll@CTree@@QAEXXZ)
+CTree.obj : error LNK2019: unresolved external symbol "public: int __thiscall CTreeItem::GetItemState(void)" (?GetItemState@CTreeItem@@QAEHXZ) referenced in function "protected: void __thiscall CTree::SetReserveState(class CTreeItem &)" (?SetReserveState@CTree@@IAEXAAVCTreeItem@@@Z)
+CTree.obj : error LNK2019: unresolved external symbol "public: class CTreeItem * __thiscall CTree::GetRootItem(void)" (?GetRootItem@CTree@@QAEPAVCTreeItem@@XZ) referenced in function "public: void __thiscall CTree::DeselectAll(void)" (?DeselectAll@CTree@@QAEXXZ)
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\C++练习\ParseKeyValue\Debug\CTree.exe : fatal error LNK1120: 6 unresolved externals
