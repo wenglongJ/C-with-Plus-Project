@@ -1,0 +1,4 @@
+﻿  测试广播服务端.cpp
+d:\c-with-plus-project\c++8networkserver\测试广播服务端.cpp(67): warning C4101: 'PkgRecv': unreferenced local variable
+  C++8NetworkServer.vcxproj -> D:\C-with-Plus-Project\C++7NetworkClient\Debug\C++8NetworkServer.exe
+  C++8NetworkServer.vcxproj -> D:\C-with-Plus-Project\C++7NetworkClient\Debug\C++8NetworkServer.pdb (Full PDB)

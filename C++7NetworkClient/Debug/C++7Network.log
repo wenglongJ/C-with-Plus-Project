@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\c-with-plus-project\c++7networkclient\source.cpp(65): warning C4101: 'sendBytes': unreferenced local variable
+  C++7Network.vcxproj -> D:\C-with-Plus-Project\C++7NetworkClient\Debug\C++7NetworkClient.exe
+  C++7Network.vcxproj -> D:\C-with-Plus-Project\C++7NetworkClient\Debug\C++7NetworkClient.pdb (Full PDB)
