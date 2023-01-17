@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  ImportUserToolDlg.cpp
+  ImportUserTool.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'libxl.lib'
