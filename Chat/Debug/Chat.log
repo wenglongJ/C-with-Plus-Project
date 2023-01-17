@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  ServerSocket.cpp
+  Messg.cpp
+  ClientSocket.cpp
+d:\c-with-plus-project\chat\clientsocket.cpp(113): warning C4060: switch statement contains no 'case' or 'default' labels
+  ChatDlg.cpp
+  Chat.cpp
+  Generating Code...
+d:\c-with-plus-project\chat\clientsocket.cpp(91): warning C4715: 'CClientSocket::GetIpAddress': not all control paths return a value
+  Chat.vcxproj -> D:\C-with-Plus-Project\Chat\Debug\Chat.exe
+  Chat.vcxproj -> D:\C-with-Plus-Project\Chat\Debug\Chat.pdb (Partial PDB)
