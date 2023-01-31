@@ -1,0 +1,4 @@
+﻿  Header.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  单例模式.vcxproj -> D:\C-with-Plus-Project\设计模式\单例模式\Debug\单例模式.exe
+  单例模式.vcxproj -> D:\C-with-Plus-Project\设计模式\单例模式\Debug\单例模式.pdb (Partial PDB)
